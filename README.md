@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeekus
 - 👀 I’m interested in automation using interpreted languages and HPC computing.  
-- 🌱 I’m currently learning Numpy and DataScience via datacamp.  
+- 🌱 I’m currently learning about AWS via A Cloud Guru's AWS Certified Solutions Architecture-Associate (SAA-C03).  
 - 💞️ I’m looking to collaborate on Open Source projects related to image recognition. 
 - 📫 How to reach me. - githubz1@annapolislinux.org
 
